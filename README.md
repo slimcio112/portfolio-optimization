@@ -1,6 +1,6 @@
 # Portfolio Optimization
 
-This is a begginer project that i made to get comfortable with python libraries commonly used in data analysis.
+This is a beginner project that i made to get comfortable with python libraries commonly used in data analysis.
 
 ## Project goal
 
